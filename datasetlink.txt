@@ -1,0 +1,2 @@
+dataset path: c:\Users\SAMSUNG\Downloads\student_burnout_dropout_dataset_2.csv
+colab link: https://colab.research.google.com/drive/1bd5vO_tOY9ONObWuNrS1a9uFedFQrEkH#scrollTo=S5pLUx8gKO_f
