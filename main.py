@@ -73,4 +73,6 @@ student_dropout_app = gr.Interface(
 )
 
 # Launch app
-student_dropout_app.launch()
+student_dropout_app.launch(
+    server_name="0.0.0.0",
+    server_port=8080,)
